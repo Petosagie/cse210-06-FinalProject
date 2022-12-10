@@ -36,6 +36,6 @@ root                    (project root folder)
 * Python 3.10.5
 * Pygame
 
-## Authors
+## Author
 ---
 * Osagie Ohenhen (petosagie@gmail.com)
