@@ -61,7 +61,7 @@ assert len(COLORS) == len(LIGHTCOLORS) # each color must have light color
 
 
 # FONT
-FONT_FILE = "tetris/assets/fonts/BigJano.ttf"
+FONT_FILE = "assets/fonts/BigJano.ttf"
 FONT_SMALL = 18
 FONT_LARGE = 100
 
